@@ -1,1 +1,1 @@
-# asteroid-soot
+# project-38-INFINTE-RUNNER-GAME
